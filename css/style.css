@@ -1,0 +1,15 @@
+/* ID selector */
+#h1{
+    background-color: black;
+    color: white;
+}
+/* Class selector */
+.h1{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+/* Element selector */
+h2{
+    background-color: rgb(9, 175, 48);
+    color: white;
+}
